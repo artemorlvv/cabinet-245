@@ -1,0 +1,128 @@
+{
+  "data": [
+    {
+      "date": "06.11 Понедельник",
+      "lessons": [
+        {
+          "number": 1,
+          "discipline": "Операционные системы",
+          "teacher": "Прокопов И.И.",
+          "group": "П-48"
+        },
+        {
+          "number": 2,
+          "discipline": "Операционные системы",
+          "teacher": "Прокопов И.И.",
+          "group": "П-47"
+        }
+      ]
+    },
+    {
+      "date": "07.11 Вторник",
+      "lessons": [
+        {
+          "number": 1,
+          "discipline": "Web-технологии",
+          "teacher": "Прилепина Е.В.",
+          "group": "П-48"
+        },
+        {
+          "number": 2,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48"
+        },
+        {
+          "number": 3,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48",
+          "isUpdated": true
+        },
+        {
+          "number": 4,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48",
+          "isUpdated": true
+        }
+      ]
+    },
+    {
+      "date": "08.11 Среда",
+      "lessons": [
+        {
+          "number": 1,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48",
+          "isUpdated": true
+        },
+        {
+          "number": 2,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48"
+        },
+        {
+          "number": 3,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48"
+        }
+      ]
+    },
+    {
+      "date": "09.11 Четверг",
+      "lessons": [
+        {
+          "number": 1,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48"
+        },
+        {
+          "number": 2,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48"
+        },
+        {
+          "number": 3,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48",
+          "isUpdated": true
+        }
+      ]
+    },
+    {
+      "date": "10.11 Пятница",
+      "lessons": [
+        {
+          "number": 1,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48"
+        },
+        {
+          "number": 2,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48"
+        },
+        {
+          "number": 3,
+          "discipline": "Проектный практикум",
+          "teacher": "Баженов М.А.",
+          "group": "П-48",
+          "isUpdated": true
+        }
+      ]
+    },
+    {
+      "date": "11.11 Суббота",
+      "lessons": []
+    }
+  ]
+}
